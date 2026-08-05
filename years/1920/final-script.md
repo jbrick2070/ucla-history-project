@@ -199,6 +199,8 @@ A 1920 front page reports that Rags paid a dollar to join the YMCA, with Miss Ha
 
 The year ended with paperwork and comedy sharing the same front page.
 
+On December 17, the newspaper summoned all male students to a compulsory ROTC enrollment assembly and instructed each one to bring a fountain pen. At the Southern Branch, even military training arrived first as paperwork.
+
 On December 24, the paper reported that the Federal Class had distributed about fourteen thousand dollars in pay checks among roughly 250 men in exactly twenty-three minutes. The class had helped devise and approve the system. Nearby, another article pretended that Rags had bought and decorated the cafeteria Christmas tree, polishing apples and oranges by rolling them across the floor. It wished everyone a “Flunkless New Year.”
 
 That is 1920 at the Southern Branch: a green tail, a veterans’ organization with a yell leader, a circus for constitutional finance, an election over who belonged, campaign leaflets falling from airplanes, twenty-three minutes of highly efficient paperwork, and one dog trapped between two institutional names.
@@ -208,16 +210,18 @@ The new collar may or may not have arrived. The new identity was already being m
 ### Suggested visual
 
 - Split the December 24 front page between “DISTRIBUTION PLAN BREAKS ALL RECORDS” and “RAGS IN GUISE OF SANTA GIVES CHRISTMAS TREE.”
+- Briefly show the December 17 ROTC headline and highlight the instruction to bring a fountain pen.
 - Let hand-drawn checks stack into a neat pile while illustrated apples roll untidily across the margin.
 - Return to the December 3 collar story. End on the two phrases “Normal School” and “The University of California.”
 - Final card: “Independent historical explainer; not an official UCLA production.”
 
 ### Viewer-visible description
 
-One Christmas Eve newspaper page places an efficient Federal Class pay-check operation beside a comic Rags story. The closing image returns to the collar whose engraved name no longer matched the institution.
+A December ROTC notice begins with a fountain pen; one week later, a Christmas Eve newspaper page places an efficient Federal Class pay-check operation beside a comic Rags story. The closing image returns to the collar whose engraved name no longer matched the institution.
 
 ### Source and fact citation
 
+- *Cub Californian*, December 17, 1920, p. 1, “Assembly Today, R.O.T.C. a Reality”: [page viewer](https://archive.org/details/ucladailybruin01losa/page/n444/mode/1up) · [direct scan](https://archive.org/download/ucladailybruin01losa/page/n444_w1200.jpg). Contemporary primary source.
 - *Cub Californian*, December 24, 1920, p. 1, “Distribution Plan Breaks All Records” and “Rags in Guise of Santa Gives Christmas Tree”: [page viewer](https://archive.org/details/ucladailybruin01losa/page/n448/mode/1up) · [direct scan](https://archive.org/download/ucladailybruin01losa/page/n448_w1200.jpg). Contemporary primary source.
 - Collar callback: *Cub Californian*, December 3, 1920, p. 1: [page viewer](https://archive.org/details/ucladailybruin01losa/page/n436/mode/1up).
 
