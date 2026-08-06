@@ -42,7 +42,7 @@ A genuine 1920 newspaper page reveals that Rags still wore a collar bearing the 
 
 Rewind to January 13. Frosh Color Day turned the campus into what the yearbook called an “emerald city.” Green ties, socks, ribbons, and improvised costumes moved through the halls. Rags “flaunted a royal green tail.”
 
-Then came the freshman band: trombone, trap drum, cymbals, bass drum, and a student whose vest was said to make as much noise as the instruments. The yearbook praised its “classical strains,” then added that “the discord continued most soulfully.” This was school spirit assembled from whatever could be worn, painted, struck, or blown into.
+Then came the freshman band: trombone, trap drum, cymbals, bass drum, and a student whose vest was said to make as much noise as the instruments. The yearbook praised its “classical strains,” then added that “the discord continued most soulfully.” At first, university identity was something the campus could wear, paint, strike, or blow into: a costume with a soundtrack.
 
 ### Suggested visual
 
@@ -67,7 +67,7 @@ The archival yearbook pairs a photograph of the makeshift freshman band with a r
 
 The comedy shared the campus with a harder postwar reality. Men injured during military service were studying through a federal vocational program. The 1920 yearbook counted 175 Federal students and said that on January 30 they met to organize themselves “into a strong force.”
 
-They elected a president, vice-president, secretary, treasurer, and sergeant-at-arms. Then they elected a yell leader. That last office says something the formal titles do not. These men were not only enrolled in a vocational-rehabilitation program. They were trying to take part in university life.
+They elected a president, vice-president, secretary, treasurer, and sergeant-at-arms. Then they elected a yell leader. That last office says something the formal titles do not. The record places vocational rehabilitation beside an ordinary campus ritual. University identity was becoming more than costume; it was becoming participation.
 
 ### Suggested visual
 
@@ -93,7 +93,7 @@ That fall, the Southern Branch needed Californians to approve Amendment 12, a st
 
 The surviving circus paper advertised hot dogs, vaudeville, peanuts, a fat-lady attraction, a slide for life, and a miniature train. A near-contemporary campus calendar added that the Psychology Department “screams wildly through a ride on Kenny’s ‘Scenic Railway.’” Across the joke newspaper ran the serious commands “KEEP EDUCATION FREE” and “STAMP YOUR BALLOT YES ON AMENDMENT 12.”
 
-The campus was learning that a public university had to explain itself to the public. Apparently it could do so with constitutional finance, pink lemonade, and a parody-paper joke about a small railway accident.
+The campus was learning that a public university had to explain itself to the public. Apparently it could do so with constitutional finance, pink lemonade, and a miniature crash that survives as comic verse—not an accident report.
 
 ### Suggested visual
 
@@ -120,7 +120,7 @@ The Federal students’ January organization led to a more basic question: did t
 
 On October 20, the student body amended its constitution. The relevant amendment passed 429 to 27. The next morning, some two hundred Federal men formed “a huge serpentine,” the *Cub Californian* reported on October 22. They crossed the campus, entered assembly, curled onto the stage, and answered the student body’s cheer with one of their own. The paper concluded: “Millspaugh hall has rarely seen such a demonstration of good fellowship.”
 
-The scene was exuberant, but the issue beneath it was not decorative. Campus belonging had required an election.
+The scene was exuberant, but the issue beneath it was not decorative. Campus belonging had required an election. One campaign was deciding who belonged inside the institution; another was asking Californians to support it from outside.
 
 ### Suggested visual
 
@@ -142,9 +142,9 @@ The contemporary newspaper supplies the election result and describes roughly tw
 
 ### Narrator voiceover
 
-Meanwhile, Amendment 12 campaigning escaped the circus tent. Engineers put an electric campaign sign on the gym. The campus calendar recorded pounds of literature dropped from airplanes—“not all at once,” it helpfully clarified. Late in October, a downtown parade put a dilapidated stagecoach, representing the university “as it is today,” ahead of a polished limousine representing what the amendment might make possible. On November 2, classes were dismissed while students campaigned.
+The outside campaign escaped the circus tent. Engineers put an electric Amendment 12 sign on the gym. The campus calendar recorded pounds of literature dropped from airplanes—“not all at once,” it helpfully clarified. Late in October, a downtown parade put a dilapidated stagecoach, representing the university “as it is today,” ahead of a polished limousine representing what the amendment might make possible. On November 2, classes were dismissed while students campaigned.
 
-The measure lost statewide by 4,640 votes. The tiny margin made the absurd machinery of the campaign feel less absurd. A sign, a leaflet, a parade, or a miniature train might actually have mattered.
+The measure lost statewide by 4,640 votes. The narrow margin explains why the campaign’s strange machinery—signs, leaflets, a parade, and a miniature railway—was treated seriously. Inside the campus, legitimacy had meant a constitution and a vote. Outside it, legitimacy looked like spectacle.
 
 ### Suggested visual
 
@@ -175,7 +175,7 @@ On November 24, the newspaper reported another membership decision. Rags had joi
 
 The fee was one dollar. Because the paper declared him not yet twenty-one, his guardian, Miss Hallam, handled the transaction. Then, it said, “Rags signed the card with his faithful paw” and wore the organization’s red triangle around his neck.
 
-This was obviously a campus joke. It was also another little ceremony of inclusion. In 1920, even the dog acquired membership papers before he acquired the correct collar.
+No such card appears in the sources used here; what survives is the newspaper’s joke. But the joke still staged another little ceremony of inclusion. In 1920, even the dog acquired membership papers before he acquired the correct collar.
 
 ### Suggested visual
 
@@ -203,9 +203,11 @@ On December 17, the newspaper summoned all male students to a compulsory ROTC en
 
 On December 24, the paper reported that the Federal Class had distributed about fourteen thousand dollars in pay checks among roughly 250 men in exactly twenty-three minutes. The class had helped devise and approve the system. Nearby, another article pretended that Rags had bought and decorated the cafeteria Christmas tree, polishing apples and oranges by rolling them across the floor. It wished everyone a “Flunkless New Year.”
 
-That is 1920 at the Southern Branch: a green tail, a veterans’ organization with a yell leader, a circus for constitutional finance, an election over who belonged, campaign leaflets falling from airplanes, twenty-three minutes of highly efficient paperwork, and one dog trapped between two institutional names.
+At the start of the year, university identity was costume: green ties, a green tail, and soulful discord. By the end, it was action: organizing a class, changing a constitution, campaigning across Los Angeles, distributing pay in twenty-three minutes, and reporting to military enrollment with a fountain pen.
 
-The new collar may or may not have arrived. The new identity was already being made—one vote, joke, form, and improvised tradition at a time.
+The Christmas front page put efficient paperwork beside a dog polishing apples. One was reported as fact; the other was a joke. Both belong in the record: systems that worked, and humor a scattered campus could share.
+
+The new collar may or may not have arrived. What the archive does show is the Southern Branch beginning to act like the name engraved on it—one vote, form, spectacle, and joke at a time.
 
 ### Suggested visual
 
